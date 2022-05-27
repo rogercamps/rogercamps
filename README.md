@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Roger
 #### Alumn at App Academy
-![Alumn at App Academy](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Alumn at App Academy]
 
 Born and raised in Barcelona, currently residing in SoCal coding full time and enjoying the sun and the waves part time
 
