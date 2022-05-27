@@ -1,16 +1,13 @@
-### Hi there 👋
-# My name is Roger Camps
-<!--
-**rogercamps/rogercamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, My name is Roger
+#### Alumn at App Academy
+![Alumn at App Academy](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+Born and raised in Barcelona, currently residing in SoCal coding full time and enjoying the sun and the waves part time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: JAVASCRIPT / REACT / REDUX / EXPRESS / HTML / CSS / PYTHON /FLASK / POSTGRES / 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
