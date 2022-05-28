@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Roger
+### Hi there 👋, My name is Roger Camps
 #### Fullstack Software developer Alumn at App Academy
 
 <img width="691" alt="Screen Shot 2022-05-27 at 13 13 30" src="https://user-images.githubusercontent.com/18482572/170783335-e0f59851-8f65-413c-8169-966a9ffb6606.png">
